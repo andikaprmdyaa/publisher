@@ -9,4 +9,9 @@
     The URL "amqp://guest:guest@localhost:5672" is commonly used to connect to a RabbitMQ message broker running on the local machine with default guest credentials. In both the publisher and subscriber programs, this URL is used to connect to the same RabbitMQ broker instance. This means that both the publisher and subscriber programs are configured to communicate with the same message broker instance on the same machine using the same credentials. This ensures that messages published by the publisher can be received and processed by the subscriber.
 
 ## Running RabbitMQ as message broker
-<img src="assets/images/rabbit1.png" alt="Rabbit Image" width="50%" height="50%">
+<img src="assets/images/rabbit1.png" alt="Rabbit Image" width="100%" height="100%">
+
+## Sending and processing event
+<img src="assets/images/Screenshot 2024-04-24 061056.png
+" alt="Rabbit Image" width="100%" height="100%">
+
