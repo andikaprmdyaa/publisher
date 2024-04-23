@@ -15,3 +15,7 @@
 <img src="assets/images/Screenshot 2024-04-24 061056.png
 " alt="Rabbit Image" width="100%" height="100%">
 
+## Monitoring chart based on publisher
+<img src="assets/images/Screenshot 2024-04-24 063459.png
+" alt="Rabbit Image" width="100%" height="100%">
+
